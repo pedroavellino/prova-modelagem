@@ -1,0 +1,5 @@
+QUESTAO 2- Com suas palavras, explique a importância de seguir as regras normais no desenvolvimento de uma modelagem de dados.
+
+Seguir as regras normais da modelagem de dados é importante para que o desenvolvimento do modelo ocorra de forma eficiente, sem confusões entre as entidades e os atributos, e os 
+relacionamentos entre eles. Além disso, fundamental seguir as regras normais  para evitar as redundâncias, como as duplicações de informações, e as dependências complicadas.
+
