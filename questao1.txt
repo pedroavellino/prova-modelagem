@@ -1,0 +1,25 @@
+QUESTÃO 1- Cite qual é a utilidade de cada um dos pilares do pensamento computacional e como podem ser usados em problemas reais não relacionados a computadores.
+
+Os quatro pilares do pensamento computacional são: a decomposição, o reconhecimento de padrões, a abstração e os algoritmos. Cada um desses processos pode ser fundamental na resolução 
+de problemas, sejam eles voltados para computação ou não. 
+
+A decomposição é o processo de divisão do problema em partes menores, em "pequenos problemas", com a finalidade de facilitar sua resolução. É um processo fundamental para se identificar as 
+particularidades de cada problema, permitindo que possam ser analisadas de forma separada e que sejam solucionadas uma a uma da melhor maniera. A decomposição é um processo fundamental 
+em qualquer área de trabalho, pois facilita o gerenciamento de equipe, permitindo ao líder dividir as funções de cada um e colocando cada profissional da empresa na resolução de uma 
+atividade em que ele possua maior habilidade de resolução. A decomposição também pode ser muito útil no dia a dia, fazendo com que uma pessoa possa cumprir suas obrigações cotidianas uma a 
+uma, sem permitir que um problema atrapalhe o outro.
+
+O reconhecimento de padrões é um processo inerente à natureza humana, e que fazemos incoscientemente do início ao fim dos dias. É uma prática fundamental para organizar seu dia, a hora de 
+acordar, o melhor momento para sair de casa e pegar menos trânsito, as roupas que devemos usar em dias de frio ou dais de calor, a escolha dos alimentos que vamos comer, etc. Também pode ser 
+muito útil no mercado de trabalho, pois um líder pode utilizar o reconhecimento de padrões para lidar com funcionários que possuem personalidades e temperamentos semelhantes, ou também na 
+solução de atividades comerciais, como na hora de lidar com clientes, no desenvolvimento de softwares e sites, na construção de carros e edifícios, etc. Um bom profissional consegue 
+reconhecer padrões e usá-lo para facilitar e agilizar os trabalhos.
+
+A abstração é um processo que lembra a decomposição, mas se difere num quesito: enquanto a decomposição divide o problema em pequenas partes, a abstração exclui do problema os detalhes 
+irrelevantes, que em nada contribuiu na resolução dele. A abstração serve para filtrar o que é essencial, facilitando o trabalho de solução do problema. A abstração pode ser fundamental para 
+um professor, por exemplo, pois permite que você saiba se comunicar de maneira sucinta e clara com seu alunos, tornando o conteúdo mais fácil de ser absorvido. A abstração é útil também para 
+um líder passar segurança em sua comunicação com os liderados. 
+
+Já os algoritmos são as sequências finitas de instruções que devem ser seguidas por uma pessoa (ou uma máquina) na realização de uma tarefa específica. Um exemplo interessante é o uso de 
+algoritmos na logística de uma empresa de transportes, que precisam executar as rotas para que os produtos cheguem de maneira rápida ao comprador. No cotidiano também pode ser útil, por 
+exemplo no processo de limpeza, na hora de executar uma receita na cozinha, na instalação de produtos eletrônicos como geladeiras e televisões.
