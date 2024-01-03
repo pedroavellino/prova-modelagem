@@ -1,0 +1,7 @@
+QUESTÃO 4- Sobre a modelagem feita por Ianko para a ImmoLink, quais são as divergências em relação ao seu pensamento, seja em tipagem, nomenclatura, tabelas, etc.
+
+Em relação a tipagem dos dados, me atentaria:
+- alterar o tipo BIGINT para CPF, pois prefiro CHAR(11), assim como você usou CHAR para DDD e Número de Telefone;
+- na escrita de alguns tipos, como VARHCHAR, que foi escrito errado em algumas entidades como EndcerecoFuncionario e EnderecoPropietario;
+- em construir as tabelas de Portaria e Financeiro, que são fundamentais;
+- também no uso de BIGINT para Unidade, afinal, cada edifício terá várias unidades, que dirá a soma de todas as unidades de todos edifícios;
